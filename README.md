@@ -1,1 +1,1 @@
-# FileReading
+Description: This code demonstrates file reading and writing operations. In the first part, it reads the contents of a file named "input.txt" using a with statement and prints the data. In the second part, it opens a file named "output.txt" in write mode and writes the string "Hello, World!" into the file.
